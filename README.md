@@ -8,3 +8,6 @@ The program using Apache POI. Features: import date form XLS file, export data t
 * Java 8
 * Maven 3.6.2
 * Apache POI 4.1.0
+
+## Status
+In progress
